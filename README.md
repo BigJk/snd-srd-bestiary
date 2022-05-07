@@ -1,5 +1,5 @@
 # snd-srd-bestiary
-- 5e SRD Bestiary Data Source for S&amp;D.
+- 5e SRD Bestiary Data Source for [Sales &amp; Dungeons](https://github.com/BigJk/snd).
 - Compiled by DMHelper (https://www.dm-helper.com/).
 - Converted to JSON and S&D format by BigJk.
 
